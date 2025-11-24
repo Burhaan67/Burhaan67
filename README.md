@@ -24,7 +24,7 @@
 # 🎨 **Tech Stack (Colored Skill Boxes)**
 
 ### **🧱 Languages**
-<div display="inline-flex">
+<div align="center">
 
 | Skill | Level |
 |-------|-------|
@@ -38,17 +38,15 @@
 </div>
 
 ---
+## 🛠️ Backend & Databases
 
-### **🛠️ Backend & Databases**
 <div align="center">
 
-| Technology | Description |
-|-----------|-------------|
-| <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /> | Relational database management |
-| <img src="https://img.shields.io/badge/SQL-%230077B5.svg?style=for-the-badge&logo=databricks&logoColor=white" /> | Query writing & DB design |
-| <img src="https://img.shields.io/badge/PHPMyAdmin-%23F8981D.svg?style=for-the-badge&logo=php&logoColor=white" /> | Database GUI management |
+| Backend | Databases | Tools |
+|--------|-----------|--------|
+| <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> | <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /> | <img src="https://img.shields.io/badge/PHPMyAdmin-%23F8981D.svg?style=for-the-badge&logo=php&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/SQL-%230077B5.svg?style=for-the-badge&logo=databricks&logoColor=white" /> | <img src="https://img.shields.io/badge/Database%20Design-%23007ACC.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoP
 
-</div>
 
 ---
 
