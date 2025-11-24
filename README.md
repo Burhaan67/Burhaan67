@@ -39,6 +39,3 @@ I love building modern, functional, and scalable digital experiences.<br>
 
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
-</p>
