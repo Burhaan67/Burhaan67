@@ -83,32 +83,13 @@
 
 ---
 
-# 📊 **GitHub Stats**
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Burhaan67&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Burhaan67&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
----
-
-# 🔥 **Most Used Languages**
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burhaan67&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 # 🤝 **Connect With Me**
 <div align="center">
 
-📧 **Email:** *your-email-here*  
-🌐 **Portfolio:** *your-site-link-here*  
-💼 **LinkedIn:** *(optional)*  
+📧 **Email:** bapubg623@gmail.com  
+🌐 **Portfolio:** https://snazzy-gumption-1c7cf1.netlify.app/  
+💼 **LinkedIn:** https://www.linkedin.com/in/burhan-subzwari-783675381/  
 
 </div>
 
