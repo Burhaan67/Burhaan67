@@ -14,9 +14,9 @@ I love building modern, functional, and scalable digital experiences.<br>
 
 ---
 
-## 🌟 About Me
-- 🔥 Full-Stack Developer  - 📘 1 Year experience in Frontend & Backend <br> 
-- 🐍 2 Months Experience with Python  - 💻 Basic PHP + SQL backend logic  
+## About Me
+-  Full-Stack Developer  -  1 Year experience in Frontend & Backend <br> 
+-  2 Months Experience with Python  -  Basic PHP + SQL backend logic  
 ---
 
 ## 🚀 My Tech Stack
