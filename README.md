@@ -1,27 +1,25 @@
-<!-- Animated Header -->
+<!-- Animated Typewriter Banner -->
 <p align="center">
-
   <img src="https://capsule-render.vercel.app/api?type=typing&color=gradient&height=200&section=header&text=Burhan%20Ahmad%20Subzwari;Full%20Stack%20Developer;PHP%20Developer&fontSize=40&fontAlignY=35&animation=twinkling&repeat=true" />
 </p>
-  
-
 
 <h2 align="center">🚀 Full-Stack Developer | Passionate Problem Solver</h2>
 
 <p align="center">
-  I love building modern, functional and scalable digital experiences.  
-  1 Year of development experience — growing every day.
+I love building modern, functional, and scalable digital experiences.<br>
+1 Year of development experience — continuously growing.
 </p>
 
 ---
 
-## 🌟 **About Me**
-
-- 🔥 Full-Stack Developer  - 📘 1 Year Experience in Frontend & Backend  
-- 🐍 2 Month Python Experience  - 🧠 Basic Knowlegdge of  PHP + SQL backend logic
+## 🌟 About Me
+- 🔥 Full-Stack Developer  
+- 📘 1 Year experience in Frontend & Backend  
+- 🐍 2 Months Experience with Python  
+- 💻 Basic PHP + SQL backend logic  
 ---
-## 🚀 My Tech Stack
 
+## 🚀 My Tech Stack
 <div align="center">
 
 | HTML | CSS | JavaScript | Python | C++ | PHP | MySQL | SQL | PHPMyAdmin | Bootstrap | Tailwind | Git | GitHub | VS Code | XAMPP | Chrome DevTools |
@@ -30,15 +28,19 @@
 
 </div>
 
-# 🤝 **Connect With Me**
-<div align="center">
+---
 
-📧 **Email:** burhanahmedsubz@gmail.com 🌐 **Portfolio:** https://snazzy-gumption-1c7cf1.netlify.app/<br>
-💼 **LinkedIn:** https://www.linkedin.com/in/burhan-subzwari-783675381/  
+## 📌 Highlighted Projects
+- 💼 **POS System** – PHP + MySQL + JS  - 💳 **Invoice Generator** – JavaScript <br>  
+- 🧾 **Billing UI with live calculations**  - 💻 **Custom PHP Database Apps**  
+
+
+
+## 🤝 Connect With Me
+<div align="center">
+📧 **Email:** burhanahmedsubz@gmail.com 🌐 **Portfolio:** https://snazzy-gumption-1c7cf1.netlify.app/<br> 💼 **LinkedIn:** https://www.linkedin.com/in/burhan-subzwari-783675381/  
 
 </div>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
