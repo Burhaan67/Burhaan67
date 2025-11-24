@@ -20,55 +20,15 @@
 - 🎯 Goal: Become a Senior Developer with strong backend architecture skills  
 
 ---
-## 🚀 Tech Stack
+## 🚀 My Tech Stack
 
----
-
-## 🧱 Languages
 <div align="center">
 
-| HTML | CSS | JavaScript | Python | C++ | PHP |
-|------|------|------------|---------|------|------|
-| <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> | <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> | <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> | <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> |
+| HTML | CSS | JavaScript | Python | C++ | PHP | MySQL | SQL | PHPMyAdmin | Bootstrap | Tailwind | Git | GitHub | VS Code | XAMPP | Chrome DevTools |
+|------|------|------------|--------|-----|-----|-------|-----|------------|-----------|---------|-----|--------|--------|------|----------------|
+| <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> | <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> | <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> | <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> | <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /> | <img src="https://img.shields.io/badge/SQL-%230077B5.svg?style=for-the-badge&logo=databricks&logoColor=white" /> | <img src="https://img.shields.io/badge/PHPMyAdmin-%23F8981D.svg?style=for-the-badge&logo=php&logoColor=white" /> | <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /> | <img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> | <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /> | <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> | <img src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white" /> | <img src="https://img.shields.io/badge/Chrome_DevTools-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white" /> |
 
 </div>
-
----
-
-## 🎨 Frontend Frameworks
-<div align="center">
-
-| Bootstrap | Tailwind |
-|-----------|----------|
-| <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /> | <img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" /> |
-
-</div>
-
----
-
-## 🛠️ Backend & Databases
-<div align="center">
-
-| PHP | MySQL | SQL | PHPMyAdmin | XAMPP |
-|------|--------|------|-------------|---------|
-| <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> | <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /> | <img src="https://img.shields.io/badge/SQL-%230077B5.svg?style=for-the-badge&logo=databricks&logoColor=white" /> | <img src="https://img.shields.io/badge/PHPMyAdmin-%23F8981D.svg?style=for-the-badge&logo=php&logoColor=white" /> | <img src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white" /> |
-
-</div>
-
----
-
-## ⚙️ Tools & Platforms
-<div align="center">
-
-| Git | GitHub | VS Code | Chrome DevTools |
-|-----|---------|----------|-----------------|
-| <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> | <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /> | <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> | <img src="https://img.shields.io/badge/Chrome_DevTools-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white" /> |
-
-</div>
-
----
-
-
 
 
 # 🤝 **Connect With Me**
