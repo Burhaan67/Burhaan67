@@ -1,7 +1,10 @@
 <!-- Animated Typewriter Banner -->
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=%20&fontAlignY=40" alt="Gradient Animated Background" style="z-index=-1"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=%20&fontAlignY=40" alt="Gradient Animated Background" p align="center" style="margin-top: -200px;">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Burhan%20Ahmad%20Subzwari;Full%20Stack%20Developer;PHP%20Developer&center=true&size=30&color=FF0000&background=00000000&width=500&height=100&font=Fira%20Code" alt="Typing Text"/>
+</p>
+/>
 </p>
 
 <p align="center" style="margin-top: -200px;">
