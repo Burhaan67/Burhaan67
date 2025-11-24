@@ -1,13 +1,8 @@
 <!-- Animated Typewriter Banner -->
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=%20&fontAlignY=40" alt="Animated Background"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Burhan%20Ahmad%20Subzwari;Full%20Stack%20Developer;PHP%20Developer&center=true&size=30&color=FF0000&background=000000&width=500&height=100&font=Fira%20Code" alt="Animated Typewriter Banner" />
 </p>
-
-<p align="center" style="margin-top: -180px;">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Burhan%20Ahmad%20Subzwari;Full%20Stack%20Developer;PHP%20Developer&center=true&size=30&color=FFFFFF&width=500&height=100&font=Fira%20Code" alt="Typing Text"/>
-</p>
-
 <h2 align="center">🚀 Full-Stack Developer | Passionate Problem Solver</h2>
 
 <p align="center">
