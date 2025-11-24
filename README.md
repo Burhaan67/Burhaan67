@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Burhan%20Ahmad%20Subzwari%20👨‍💻&fontSize=45&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Burhan%20Ahmad%20Subzwari%20&fontSize=45&fontAlignY=40" />
 </p>
 
 <h2 align="center">🚀 Full-Stack Developer | Passionate Problem Solver</h2>
