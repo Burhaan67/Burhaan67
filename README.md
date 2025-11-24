@@ -1,7 +1,7 @@
 <!-- Animated Typewriter Banner -->
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Burhan%20Ahmad%20Subzwari;Full%20Stack%20Developer;PHP%20Developer&center=true&size=30&color=FF0000&background=000000&width=500&height=100&font=Fira%20Code" alt="Animated Typewriter Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Burhan%20Ahmad%20Subzwari;Full%20Stack%20Developer;PHP%20Developer&center=true&size=30&color=007ACC&width=500&height=100&font=Fira%20Code" alt="Typing SVG Banner" />
 </p>
 <h2 align="center">🚀 Full-Stack Developer | Passionate Problem Solver</h2>
 
