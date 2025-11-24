@@ -24,7 +24,7 @@
 # 🎨 **Tech Stack (Colored Skill Boxes)**
 
 ### **🧱 Languages**
-<div align="center">
+<div display="inline-flex">
 
 | Skill | Level |
 |-------|-------|
