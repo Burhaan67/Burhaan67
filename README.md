@@ -45,7 +45,8 @@
 | Backend | Databases | Tools |
 |--------|-----------|--------|
 | <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> | <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /> | <img src="https://img.shields.io/badge/PHPMyAdmin-%23F8981D.svg?style=for-the-badge&logo=php&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/SQL-%230077B5.svg?style=for-the-badge&logo=databricks&logoColor=white" /> | <img src="https://img.shields.io/badge/Database%20Design-%23007ACC.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoP
+| <img src="https://img.shields.io/badge/SQL-%230077B5.svg?style=for-the-badge&logo=databricks&logoColor=white" /> |
+<img src="https://img.shields.io/badge/SQL-%230077B5.svg?style=for-the-badge&logo=databricks&logoColor=white" /> | <img src="https://img.shields.io/badge/Database%20Design-%23007ACC.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjQiIHJ4PSIyIiBmaWxsPSIjZmZmIi8+PHJlY3QgeT0iNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjQiIHJ4PSIyIiBmaWxsPSIjZmZmIi8+PHJlY3QgeT0iMTIiIHdpZHRoPSIxNiIgaGVpZ2h0PSI0IiByeD0iMiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==" /> | <img src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white" /> |
 
 
 ---
