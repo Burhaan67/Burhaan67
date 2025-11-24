@@ -13,12 +13,9 @@
 ---
 
 ## 🌟 **About Me**
-- 🔥 Full-Stack Developer  
-- 📘 1 Year Experience in Frontend & Backend  
-- 🐍 2 Month Python Experience  
-- 🧠 Improving my PHP + SQL backend logic  
-- 🎯 Goal: Become a Senior Developer with strong backend architecture skills  
 
+- 🔥 Full-Stack Developer  - 📘 1 Year Experience in Frontend & Backend  
+- 🐍 2 Month Python Experience  - 🧠 Basic Knowlegdge of  PHP + SQL backend logic
 ---
 ## 🚀 My Tech Stack
 
