@@ -31,7 +31,7 @@
 <div align="center">
 
 📧 **Email:** bapubg623@gmail.com 🌐 **Portfolio:** https://snazzy-gumption-1c7cf1.netlify.app/
-          💼 **LinkedIn:** https://www.linkedin.com/in/burhan-subzwari-783675381/  
+                            💼 **LinkedIn:** https://www.linkedin.com/in/burhan-subzwari-783675381/  
 
 </div>
 
