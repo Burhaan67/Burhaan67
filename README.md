@@ -1,7 +1,7 @@
 <!-- Animated Typewriter Banner -->
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=%20&fontAlignY=40" alt="Gradient Animated Background"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=%20&fontAlignY=40" alt="Gradient Animated Background" style="z-index=-1"/>
 </p>
 
 <p align="center" style="margin-top: -200px;">
