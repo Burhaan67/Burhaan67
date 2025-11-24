@@ -1,7 +1,10 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Burhan%20Ahmad%20Subzwari%20&fontSize=45&fontAlignY=40" />
+
+  <img src="https://capsule-render.vercel.app/api?type=typing&color=gradient&height=200&section=header&text=Burhan%20Ahmad%20Subzwari;Full%20Stack%20Developer;PHP%20Developer&fontSize=40&fontAlignY=35&animation=twinkling&repeat=true" />
 </p>
+  
+
 
 <h2 align="center">🚀 Full-Stack Developer | Passionate Problem Solver</h2>
 
