@@ -36,7 +36,7 @@ I love building modern, functional, and scalable digital experiences.<br>
 ##  Connect With Me
 <div align="center">
  Email:burhanahmedsubz@gmail.com  
-  <br>Portfolio: https://snazzy-gumption-1c7cf1.netlify.app/<br>  LinkedIn: https://www.linkedin.com/in/burhan-subzwari-783675381/  
+  <br>Portfolio: https:myport23.netlify.app/<br>  LinkedIn: https://www.linkedin.com/in/burhan-subzwari-783675381/  
 
 </div>
 
